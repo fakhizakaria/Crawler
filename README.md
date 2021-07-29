@@ -1,5 +1,5 @@
 # Crawler
-Crawle any web site with Puppeteer.
+Crawle any web site data with Puppeteer.
 
 # Get the code
 $ git clone https://github.com/fakhizakaria/Crawler.git
